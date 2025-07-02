@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Instalar Delta</title>
+  </head>
+  <body style="text-align: center; margin-top: 100px;">
+    <h1>Instalar Delta</h1>
+    <a href="itms-services://?action=download-manifest&url=https://davidum19.github.io/delta-install/manifest.plist">
+      <button style="font-size: 20px; padding: 10px 20px;">Instalar Delta</button>
+    </a>
+  </body>
+</html>
